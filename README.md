@@ -9,4 +9,6 @@ It currently suppports only microstrip elements : **MLIN**, **MTEE**
 
 ## Usage
 
-`./QtK.sh <Qucs/schematic.sch> <KiCad/layout.kicad_pcb>`
+```
+./QtK.sh <Qucs/schematic.sch> <KiCad/layout.kicad_pcb>
+```
