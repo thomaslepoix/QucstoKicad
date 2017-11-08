@@ -1,5 +1,8 @@
 # QucstoKicad
 
+- **Qucs  :** http://qucs.sourceforge.net/
+- **KiCad :** http://kicad-pcb.org/
+
 Qucs doesn't have any layout editor so here is a script to export HF components (microstrip or coplanar) to KiCad - PcbNew.
 
 It currently suppports only microstrip elements : `MLIN`, `MTEE`
