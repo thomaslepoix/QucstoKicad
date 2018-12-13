@@ -1,3 +1,5 @@
+*** Obsolete repository -> https://github.com/thomaslepoix/Qucs-RFlayout ***
+
 # QucstoKicad
 
 Qucs doesn't have any layout editor so here is a script to export HF components (microstrip or coplanar) to KiCad - PcbNew.
